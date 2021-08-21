@@ -69,7 +69,7 @@ export default function Contact() {
         <Row xs={1} md={1} lg={1}>
           <Col className="text-center">
             <p className="text-white text-wrap">
-              Brining New Mexico flavors to San Antonio, Texas! Sign-up for our
+              Bringing New Mexico flavors to San Antonio, Texas! Sign-up for our
               mailing list to be informed on our official opening date.
             </p>
           </Col>
@@ -174,7 +174,7 @@ export default function Contact() {
           </Col>
           <Col>
             <a
-              href="mailto:ericsans47@gmail.com?subject= Smouthered Inquiry"
+              href="mailto:smouthered.sa@gmail.com?subject= Smouthered Inquiry"
               rel="noopener noreferrer"
               target="__blank"
             >

@@ -41,10 +41,14 @@ export default function Landing() {
               alignItems: "center",
             }}
           >
-            <small className="pb-3" style={{ color: "#f5f5f5" }}>
+            <small className="pb-3 text-uppercase" style={{ color: "#f5f5f5" }}>
               Scroll Down
             </small>
-            <AiOutlineDown size={25} color="#f5f5f5" />
+            <AiOutlineDown
+              className="animate__animated animate__bounce animate__repeat-4 animate__delay-1s"
+              size={25}
+              color="#f5f5f5"
+            />
           </motion.div>
         </Col>
       </Row>
